@@ -1,4 +1,4 @@
-# Introduction & Course Overview
+# Introduction
 
 <img src="gpu-architecture.png" alt="CUDA Architecture" width="400">
 
@@ -6,7 +6,7 @@ CUDA (Compute Unified Device Architecture) is a parallel computing platform and 
 
 Triton is a programming language developed by OpenAI that simplifies writing high-performance GPU programs—similar to CUDA but with a focus on ease of use and optimization for modern AI workloads.
 
-## Course Outline
+## Outline
 
 1. **Fundamentals**  
    Learn the core principles behind GPU computing and the underlying architecture that makes CUDA and Triton so powerful.
