@@ -50,3 +50,5 @@ A **grid** is a collection of blocks that together execute a kernel across the e
 - **Thread:** Smallest unit of execution.
 
 This hierarchy allows CUDA to effectively distribute and manage parallel computations on GPUs.
+
+[Cuda Blogpost](https://developer.nvidia.com/blog/cuda-refresher-cuda-programming-model/)
