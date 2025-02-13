@@ -1,4 +1,4 @@
-# Introduction
+# Introduction & Overview
 
 <img src="gpu-architecture.png" alt="CUDA Architecture" width="400">
 
