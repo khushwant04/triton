@@ -1,6 +1,6 @@
 # Introduction & Overview
 
-<img src="gpu-architecture.png" alt="CUDA Architecture" width="400">
+<img src="../images/gpu-architecture.png" alt="CUDA Architecture" width="400">
 
 CUDA (Compute Unified Device Architecture) is a parallel computing platform and programming model developed by NVIDIA that enables developers to use GPUs for general-purpose computation. It provides direct access to the GPU’s massive parallel processing capabilities.
 

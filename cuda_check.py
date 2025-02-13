@@ -1,6 +1,4 @@
 import torch
-import triton
-import triton.language as tl
 
 if torch.cuda.is_available():
     device_idx = torch.cuda.current_device()
