@@ -26,7 +26,10 @@ Follow these initial steps to install CUDA:
    Paste this Content in the .bashrc file, do save & exit.
 
 4. **Verify Installation:**
-   Run the `cuda_check.py` script to ensure CUDA is correctly installed and configured.
+   Run this command to ensure CUDA is correctly installed and configured.
+   ```bash
+   nvcc --version
+   ```
 
 For more detailed instructions, please refer to the official Documentation
 - [CUDA Installation Guide](https://developer.nvidia.com/cuda-downloads).
