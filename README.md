@@ -17,8 +17,8 @@ In this repository you will find:
 - **CUDA Check Utility:**  
   Verify if CUDA is available on your machine with the [`cuda_check.py`](cuda_check.py) script.
 
-- **CUDA kernels**
-  Check triton kernels [Kernels](kernels)
+- **CUDA Kernels:**
+  Check triton kernels [Kernels](kernels).
 
 ## Getting Started
 
