@@ -2,7 +2,7 @@
 
 **Select the Device Configuration**
 ![CUDA Installation Steps](../images/step-1.png)
-**Follow the Instructions according to you device**
+**Follow the Instructions according to your device**
 ![CUDA Installation Steps](../images/step-2.png)
 
 Follow these initial steps to install CUDA:
@@ -13,7 +13,7 @@ Follow these initial steps to install CUDA:
 2. **Install the CUDA Toolkit:**  
    Follow the installation instructions provided by NVIDIA for your operating system.
 
-3. **Add Envoirment Variables (Linux):**  
+3. **Add Environment Variables (Linux):**  
    ``` bash
    sudo nano ~/.bashrc
    ```
